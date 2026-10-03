@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the book they accompany, and this software archive."
+type: software
+title: "Ushairi: Acoustic verification scripts for The Procrustean Bed"
+abstract: "Python scripts (Praat/Parselmouth) that reproduce, line by line, the 34 acoustic figures of Chapter 9 of The Procrustean Bed, from formal readings of classical and contemporary Swahili poetry."
+authors:
+  - family-names: Roy
+    given-names: Mathieu
+    orcid: "https://orcid.org/0000-0001-7684-4355"
+    affiliation: "DL2A Buluu Publishing"
+repository-code: "https://github.com/Mawazoni/Ushairi"
+license: MIT
+doi: "10.5281/zenodo.23089282"
+date-released: "2026-10-03"
+keywords:
+  - Swahili poetry
+  - Swahili metrics
+  - utenzi
+  - wimbo
+  - shairi
+  - acoustic phonetics
+  - Praat
+  - Parselmouth
+  - open science
+preferred-citation:
+  type: book
+  title: "The Procrustean Bed: The Fallacy of Accentual Metrics in Swahili Poetry. A Manifesto for Data-Driven Models for the Utenzi, Wimbo, and Shairi Meters"
+  authors:
+    - family-names: Roy
+      given-names: Mathieu
+      orcid: "https://orcid.org/0000-0001-7684-4355"
+  publisher:
+    name: "DL2A Buluu Publishing"
+  year: 2026
+  isbn: "978-1-291-70670-3"
+  doi: "10.5281/zenodo.21720211"
+references:
+  - type: data
+    title: "The Fatuma Shaaban Acoustic Corpus: Formal Readings of Classical Swahili Poetry"
+    authors:
+      - family-names: Roy
+        given-names: Mathieu
+      - family-names: Shaaban
+        given-names: Fatuma
+    year: 2026
+    doi: "10.5281/zenodo.22162387"
+  - type: data
+    title: "Kiswahili !!: Original Audio Field Recording of the Poem Recited by its Author Sheikh Mahmud Ahmed Abdull Kadir (Ustadh Mau)"
+    authors:
+      - family-names: Roy
+        given-names: Mathieu
+      - name: "Ustadh Mau (Sheikh Mahmud Ahmed Abdull Kadir)"
+    year: 2016
+    url: "https://zenodo.org/records/19827932"
