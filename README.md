@@ -1,3 +1,0 @@
-# Ushairi
-
-🚧 **Work in progress** 🚧
