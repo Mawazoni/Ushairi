@@ -1,0 +1,7 @@
+.git
+*.png
+*_caption*.txt
+.DS_Store
+__pycache__/
+*.tar
+*.tar.gz

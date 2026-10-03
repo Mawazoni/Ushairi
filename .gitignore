@@ -1,6 +1,6 @@
 # Files produced by the scripts
 *.png
-*_caption.txt
+*_caption*.txt
 
 # System files
 .DS_Store

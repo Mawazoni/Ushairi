@@ -32,13 +32,13 @@ Each folder is named after the recording it contains, without its extension, and
 
 ## Installation
 
-The scripts need Python 3 and three libraries:
+The scripts need Python 3 and three libraries, pinned in `requirements.txt` to the versions with which all 34 figures of the book were reproduced: `praat-parselmouth` 0.4.7, which gives Python access to the acoustic engine of Praat, `numpy` 2.5.3 and `matplotlib` 3.11.2.
 
 ```
 pip install -r requirements.txt
 ```
 
-The libraries are `praat-parselmouth`, which gives Python access to the acoustic engine of Praat, together with `numpy` and `matplotlib`. The exact versions are preserved in the Docker image of the Zenodo archive.
+To run the scripts in a fixed environment, with nothing to install but Docker, see `DOCKER.md`: the Docker image is archived on Zenodo with this version of the repository.
 
 ## Running a script
 
